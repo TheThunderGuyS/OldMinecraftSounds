@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*TheThunderGuy_S was here.*/
 
 .bodyGeneral  {
@@ -49,3 +50,47 @@
 	color: Blue;
 	text-decoration: underline;
 }
+=======
+/*TheThunderGuy_S was here.*/
+
+.bodyGeneral  {
+	font-size: 100%;
+	color: black;
+	background-color: GhostWhite;
+}
+
+
+/*Temporary stuffs*/
+
+.Construction  {
+	font-family: "Verdana", "Arial", "Times New Roman"; 
+	font-size: 1.8em;
+}
+
+.ConstructionFancy  {
+	font-family: "Verdana", "Arial", "Times New Roman"; 
+	font-size: 2em;
+	border-left: 0.25em solid DodgerBlue;
+	border-radius: 0.15em;
+	background-color: AliceBlue;
+}
+
+.ConstructionLnk  {
+	font-family: "Verdana", "Arial", "Times New Roman"; 
+	font-size: 1.75em;
+}
+
+.ConstructionLnk:link, .ConstructionLnk:visited  {
+	color: DodgerBlue;
+	text-decoration: none;
+}
+
+.ConstructionLnk:hover  {
+	color: DodgerBlue;
+	text-decoration: underline;
+}
+.ConstructionLnk:active  {
+	color: Blue;
+	text-decoration: underline;
+}
+>>>>>>> 4e94801b730f6ff53ef5d1e32dcac71b1cca2e24
