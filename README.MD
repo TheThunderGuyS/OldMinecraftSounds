@@ -32,7 +32,6 @@ Changes from the default sounds:
 - Hunt down the old skeleton noises.
 - Search for the old rain.
 - Use Alpha grass sounds.
-
 - Complete my webpage.
 ************************************************************************
 # Changelog
