@@ -8,12 +8,13 @@
 
 
 /*Temporary stuffs*/
+
 .Construction  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
 	font-size: 1.8em;
 }
 
-.ConstructionFancy {
+.ConstructionFancy  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
 	font-size: 2em;
 	border-left: 0.25em solid DodgerBlue;
