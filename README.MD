@@ -7,6 +7,8 @@ Take your time to view my [non-exsisting "license".](LICENSE.MD)
 
 View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/index.html)
 
+View the [Downloads.](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases)
+
 Changes from the default sounds:
 - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
 - End portals no longer make sounds when placing Eyes of Ender or being activated.
