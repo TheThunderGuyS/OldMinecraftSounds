@@ -26,6 +26,12 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 
+Installation instructions:
+- 1. Download the pack.
+- 2. Place it in your `resourcepacks` folder.
+- 3. Enable it and enjoy!
+
+The latest release is `Progress Update 2`.
 **********
 # To do list
 
@@ -38,13 +44,13 @@ Changes from the default sounds:
 ************************************************************************
 # Changelog
 
-Progress update 2 - September 7th, 2019
+Progress Update 2 - September 7th, 2019
 - Zombies, husks, drowned and zombie villagers now all use the exact same sounds.
 
-Progress update 1(.1) - September 7th, 2019
+Progress Update 1(.1) - September 7th, 2019
 - Since the previous version, the pack logo got a white circle around it rather than transparency so you can actually see it.
 
-Progress update 1 - September 7th, 2019
+Progress Update 1 - September 7th, 2019
 
 - Very first initial release. Highly unfinished.
 - The following was changed from the default sounds (copied from above)
