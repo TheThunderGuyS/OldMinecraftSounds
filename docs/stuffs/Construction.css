@@ -22,6 +22,15 @@
 	background-color: AliceBlue;
 }
 
+.ConstructionAudio  {
+	border-left: 0.5em solid DodgerBlue;
+	border-right: 0.5em solid DodgerBlue;
+	border-top: 0.2em solid DodgerBlue;
+	border-bottom: 0.2em solid DodgerBlue;
+	border-radius: 0.45em;
+	background-color: AliceBlue;
+}
+
 .ConstructionLnk  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
 	font-size: 1.75em;
