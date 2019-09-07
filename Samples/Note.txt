@@ -1,0 +1,2 @@
+Excluded from the samples directory are:
+- All of the zombie sounds

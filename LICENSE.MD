@@ -1,5 +1,5 @@
-# TheThunderGuy_S's non-exsistant so called "Licence". 
-**Version 1.1(.1), August 28th, 2019**
+# TheThunderGuy_S's non-existing so called "License". 
+**Version 1.1(.2), September 7th, 2019**
 ******************************************************
 Copyleft TheThunderGuy_S
 
