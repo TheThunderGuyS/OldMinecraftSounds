@@ -22,6 +22,15 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 
 ***********
+# ToDo List
+
+- Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
+- Find the obscure cow noises.
+- Make the zombie villager and husk have the same sounds as the zombie.
+- Hunt down the old skeleton noises.
+- Search for the old rain.
+- Use Alpha grass sounds.
+************************************************************************
 # Changelog
 
 Progress update 1(.1) - September 7th, 2019
@@ -47,15 +56,3 @@ Progress update 1 - September 7th, 2019
   - Breaking a tool is silent.
 
 *End of Changelog*
-
-***********
-# ToDo List
-
-- Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
-- Find the obscure cow noises.
-- Make the zombie villager and husk have the same sounds as the zombie.
-- Hunt down the old skeleton noises.
-- Search for the old rain.
-- Use Alpha grass sounds.
-************************************************************************
-*End of File*
