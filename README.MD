@@ -24,6 +24,9 @@ Changes from the default sounds:
 ***********
 # Changelog
 
+Progress update 1(.1) - September 7th, 2019
+- Since the previous version, the pack logo got a white circle around it rather than transparency so you can actually see it.
+
 Progress update 1 - September 7th, 2019
 
 - Very first initail release. Highly unfinished.
