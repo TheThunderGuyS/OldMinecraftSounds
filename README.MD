@@ -3,7 +3,7 @@
 A Minecraft resource pack that attempts to bring old sounds back into modern versions.
 Please contribute with any old assets you may have lying around `(Cow moo pls)`.
 
-Take your time to view my non-exsistant "licence" [here.](LICENCE.MD)
+Take your time to view my [non-exsisting "licence".](LICENCE.MD)
 
 View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/index.html)
 
