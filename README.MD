@@ -47,7 +47,7 @@ Progress update 1 - September 7th, 2019
 
 ***********
 # ToDo List
-***********
+
 - Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
 - Find the obscure cow noises.
 - Make the zombie villager and husk have the same sounds as the zombie.
