@@ -1,0 +1,34 @@
+.bodyGeneral  {
+	font-size: 100%;
+	color: black;
+	background-color: GhostWhite;
+}
+
+
+/*Temporary stuffs*/
+.Construction {
+	font-family: "Verdana", "Arial", "Times New Roman"; 
+	font-size: 2em;
+	border-left: 0.25em solid DodgerBlue;
+	border-radius: 0.15em;
+	background-color: AliceBlue;
+}
+
+.ConstructionLnk  {
+	font-family: "Verdana", "Arial", "Times New Roman"; 
+	font-size: 1.75em;
+}
+
+.ConstructionLnk:link, .ConstructionLnk:visited  {
+	color: DodgerBlue;
+	text-decoration: none;
+}
+
+.ConstructionLnk:hover  {
+	color: DodgerBlue;
+	text-decoration: underline;
+}
+.ConstructionLnk:active  {
+	color: Blue;
+	text-decoration: underline;
+}
