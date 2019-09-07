@@ -27,9 +27,9 @@ Changes from the default sounds:
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 
 Installation instructions:
-- 1. Download the pack.
-- 2. Place it in your `resourcepacks` folder.
-- 3. Enable it and enjoy!
+ 1. Download the pack.
+ 2. Place it in your `resourcepacks` folder.
+ 3. Enable it and enjoy!
 
 The latest release is `Progress Update 2`.
 **********
