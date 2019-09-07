@@ -5,7 +5,7 @@ Please contribute with any old assets you may have lying around `(Cow moo pls)`.
 
 Take your time to view my [non-exsisting "license".](LICENSE.MD)
 
-View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/index.html)
+View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/)
 
 View the [Downloads.](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases)
 
