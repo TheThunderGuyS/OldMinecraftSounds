@@ -3,13 +3,9 @@
 A Minecraft resource pack that attempts to bring old sounds back into modern versions.
 Please contribute with any old assets you may have lying around `(Cow moo pls)`.
 
-<<<<<<< HEAD
-Please take your time to view my non-existing "license" [here.](LICENSE.MD)
-=======
 Take your time to view my non-exsistant "licence" [here.](LICENCE.MD)
 
 View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/index.html)
->>>>>>> fcaff04886a6e058392c59a18f7a0a589d3d18f0
 
 Changes from the default sounds:
 - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
@@ -28,7 +24,7 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 
-***********
+**********
 # To do list
 
 - Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
