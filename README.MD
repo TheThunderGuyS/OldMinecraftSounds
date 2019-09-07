@@ -3,7 +3,7 @@ A Minecraft resource pack that attempts to bring old sounds back into modern ver
 
 Please contribute with any old assets you may have lying around `(Cow moo pls)`.
 
-View my non-exsistant "licence" here:
+Please take your time to view my non-exsistant "licence" [here.](LICENCE.MD)
 
 Changes from the default sounds:
 - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
