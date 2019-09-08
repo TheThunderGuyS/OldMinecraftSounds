@@ -3,11 +3,11 @@
 A Minecraft resource pack that attempts to bring old sounds back into modern versions.
 Please contribute with any old assets you may have lying around `(Cow moo pls)`.
 
-Take your time to view my [non-existing "license".](LICENSE.MD)
+Take your time to view my [non-existing "license".](LICENSE.md)
 
-See my [rules about contributing.](CODE_OF_CONDUCT.MD)
+See my [rules about contributing.](CODE_OF_CONDUCT.md)
 
-View the [offical webpage!](https://thethunderguys.github.io/OldMinecraftSounds/)
+View the [offical webpage!](https://TheThunderGuyS.github.io/OldMinecraftSounds/)
 
 View the [Downloads.](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases)
 
@@ -28,7 +28,7 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 
-![](Banner.png)
+![](../Banner.png)
 
 Installation instructions:
  1. Download the pack.
