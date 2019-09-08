@@ -26,7 +26,7 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 
-![](Banner.png
+![](Banner.png)
 
 Installation instructions:
  1. Download the pack.
