@@ -1,2 +1,4 @@
 Excluded from the samples directory are:
 - All of the zombie sounds
+
+The mp3 folder contains mp3 versions of the sample for use with the website.

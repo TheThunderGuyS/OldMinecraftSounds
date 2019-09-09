@@ -27,6 +27,10 @@ Changes from the default sounds:
 - Old low quality explosions!
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
+- Rain has the old annoying noises.
+- All new cave sounds are silent. Only 1-13 play.
+- Underwater ambiance and entering/exiting water is silent.
+- Squid squirting ink is silent.
 
 ![](../Banner.png)
 
@@ -35,18 +39,23 @@ Installation instructions:
  2. Place it in your `resourcepacks` folder.
  3. Enable it and enjoy!
 
-The latest release is `Progress Update 2`.
+The latest release is `Progress Update 3`.
 **********
 # To do list
 
 - Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
 - Find the obscure cow noises.
 - Hunt down the old skeleton noises.
-- Search for the old rain.
 - Use Alpha grass sounds.
 - Complete my webpage.
 ************************************************************************
 # Changelog
+
+Progress Update 3 - September 9th, 2019
+- Rain now has the old annoying noises.
+- All new cave sounds are now silent. Only 1-13 play.
+- Underwater ambiance and entering/exiting water is now silent.
+- Squid squirting ink is now silent.
 
 Progress Update 2 - September 7th, 2019
 - Zombies, husks, drowned and zombie villagers now all use the exact same sounds.
