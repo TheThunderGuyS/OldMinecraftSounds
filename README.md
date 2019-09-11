@@ -43,7 +43,7 @@ Installation instructions:
  3. Enable it and enjoy!
 
 
-The latest release is `Progress Update 4`.
+The latest release is `Progress Update 4` for Minecraft: Java Edition `1.14.4`.
 
 ************************************************************************
 # Changelog
