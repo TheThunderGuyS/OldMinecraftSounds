@@ -7,7 +7,7 @@ View the [offical webpage!](https://TheThunderGuyS.github.io/OldMinecraftSounds/
 
 View the [Downloads.](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases)
 
-your time to view my [non-existing "license".](LICENSE.md)
+Take your time to view my [non-existing "license".](LICENSE.md)
 
 See my [Code of Conduct.](CODE_OF_CONDUCT.md)
 
