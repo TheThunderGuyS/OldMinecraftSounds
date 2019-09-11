@@ -1,15 +1,15 @@
 # Old Minecraft Sounds
 
 A Minecraft resource pack that attempts to bring old sounds back into modern versions.
-Please contribute with any old assets you may have lying around `(Cow moo pls)`.
-
-Take your time to view my [non-existing "license".](LICENSE.md)
-
-See my [Code of Conduct.](CODE_OF_CONDUCT.md)
+Please contribute with any old assets you may have lying around.
 
 View the [offical webpage!](https://TheThunderGuyS.github.io/OldMinecraftSounds/)
 
 View the [Downloads.](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases)
+
+your time to view my [non-existing "license".](LICENSE.md)
+
+See my [Code of Conduct.](CODE_OF_CONDUCT.md)
 
 Changes from the default sounds:
 - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
@@ -35,12 +35,13 @@ Changes from the default sounds:
 - Old Creeper sounds.
 - Old skeleton sounds.
 
-![](../Banner.png)
+![](Banner.png)
 
 Installation instructions:
  1. Download the pack.
  2. Place it in your `resourcepacks` folder.
  3. Enable it and enjoy!
+
 
 The latest release is `Progress Update 4`.
 
