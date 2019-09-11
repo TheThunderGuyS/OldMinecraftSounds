@@ -28,9 +28,12 @@ Changes from the default sounds:
 - Breaking a tool is silent.
 - Zombies, husks, zombie villagers and drowned all have the same sounds.
 - Rain has the old annoying noises.
-- All new cave sounds are silent. Only 1-13 play.
 - Underwater ambiance and entering/exiting water is silent.
 - Squid squirting ink is silent.
+- Old cow sounds! Milking is silent.
+- Old Slime sounds.
+- Old Creeper sounds.
+- Old skeleton sounds.
 
 ![](../Banner.png)
 
@@ -39,17 +42,19 @@ Installation instructions:
  2. Place it in your `resourcepacks` folder.
  3. Enable it and enjoy!
 
-The latest release is `Progress Update 3`.
-**********
-# To do list
+The latest release is `Progress Update 4`.
 
-- Use old bow sounds on the fishing rod, Eyes of Ender and fire charges.
-- Find the obscure cow noises.
-- Hunt down the old skeleton noises.
-- Use Alpha grass sounds.
-- Complete my webpage.
 ************************************************************************
 # Changelog
+
+Progress Update 4 - September 11th, 2019
+- I found a pile of [new sources!](https://archive.org/details/MinecraftAlphaResources) (Archived by me)
+- Old cow sounds! (Milking is now silent)
+- Strange old Slime sounds.
+- Old metallic Creeper sounds.
+- Old "bone-ey" skeleton sounds.
+- The changes to cave sounds have been reverted. I'll fix them with sounds.json in the next update and remove subtitles for silent things.
+- My pile of sounds has step sounds too! Coming next update.
 
 Progress Update 3 - September 9th, 2019
 - Rain now has the old annoying noises.
