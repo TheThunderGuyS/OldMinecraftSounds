@@ -3,7 +3,7 @@
 .bodyGeneral  {
 	font-size: 100%;
 	color: black;
-	background-color: GhostWhite;
+	background-color: rgb(254, 254, 254);
 }
 
 
@@ -12,40 +12,41 @@
 .Construction  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
 	font-size: 1.8em;
+	word-spacing: -0.1em;
 }
 
 .ConstructionFancy  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
-	font-size: 2em;
-	border-left: 0.25em solid DodgerBlue;
-	border-radius: 0.15em;
-	background-color: AliceBlue;
+	text-indent:  0.2em;
+	word-spacing: -0.1em;
+	font-size: 1.8em;
+	border-left: 0.2em solid rgb(26, 163, 255);
+	border-radius: 0.2em;
+	background-color: rgb(250, 250, 250);
 }
 
 .ConstructionAudio  {
-	border-left: 0.5em solid DodgerBlue;
-	border-right: 0.5em solid DodgerBlue;
-	border-top: 0.2em solid DodgerBlue;
-	border-bottom: 0.2em solid DodgerBlue;
-	border-radius: 0.45em;
-	background-color: AliceBlue;
+	border: 0.2em solid rgb(26, 163, 255);
+	border-radius: 2em;
+	background-color: rgb(26, 163, 255);
 }
 
 .ConstructionLnk  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
-	font-size: 1.75em;
+	font-size: 1.7em;
+	word-spacing: -0.1em;
 }
 
 .ConstructionLnk:link, .ConstructionLnk:visited  {
-	color: DodgerBlue;
+	color: rgb(26, 163, 255);
 	text-decoration: none;
 }
 
 .ConstructionLnk:hover  {
-	color: DodgerBlue;
+	color: rgb(26, 163, 255);
 	text-decoration: underline;
 }
 .ConstructionLnk:active  {
-	color: Blue;
+	color: rgb(0, 122, 204);
 	text-decoration: underline;
 }
