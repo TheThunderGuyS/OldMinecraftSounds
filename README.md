@@ -11,29 +11,39 @@ Take your time to view my [non-existing "license".](LICENSE.md)
 
 See my [Code of Conduct.](CODE_OF_CONDUCT.md)
 
-Changes from the default sounds:
-- Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
-- End portals no longer make sounds when placing Eyes of Ender or being activated.
-- Old sounds for falls and damage!
-- Eyes of Ender don't make a pop when dropping from the sky.
-- Igniting fire with flint and steel makes a block place sound
-- Bows, crossbows and snowballs/eggs/Ender pearls make the same sound. Drawing a crossbow is silent.
-- Gaining experience and leveling up is silent.
-- The Ender dragon uses the same hurt sound as the player and killing it is silent.
-- Old water splash sounds are used.
-- Old sounds for lava bubbling are used.
-- Minecarts are silent.
-- Shearing a sheep is silent.
-- Old low quality explosions!
-- Breaking a tool is silent.
-- Zombies, husks, zombie villagers and drowned all have the same sounds.
-- Rain has the old annoying noises.
-- Underwater ambiance and entering/exiting water is silent.
-- Squid squirting ink is silent.
-- Old cow sounds! Milking is silent.
-- Old Slime sounds.
-- Old Creeper sounds.
-- Old skeleton sounds.
+Differences from the default sounds:
+
+- Many things share the same sounds:
+  - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
+  - Bows, crossbows and snowballs/eggs/Ender pearls make the same sound.
+  - Zombies, husks, zombie villagers and drowned all have the same sounds.
+  - The Ender dragon uses the same hurt sound as the player.
+
+- Many things now use their actual old sounds:
+  - Igniting fire with flint and steel makes the old sound
+  - Old sounds for falls and damage!
+  - Old low quality explosions!
+  - Rain has the old annoying noises.
+  - Old sounds for lava bubbling are used.
+  - Old water splash sounds are used.
+  - Old noisy cows!
+  - Old Slime sounds.
+  - Old "metallic" Creeper sounds.
+  - Old "bone-like" skeleton sounds.
+
+- Many sounds are simply removed:
+  - End portals no longer make sounds when placing Eyes of Ender or being activated.
+  - Eyes of Ender don't make a pop when dropping from the sky.
+  - Drawing a crossbow is silent.
+  - Gaining experience and leveling up is silent.
+  - Removed the Ender dragon death sound.
+  - Minecarts are silent.
+  - Shearing a sheep is silent.
+  - Breaking tools is silent.
+  - Underwater ambiance and the sound for entering/exiting water is removed.
+  - Squids squirting ink is silent.
+  - Milking cows is silent.
+
 
 ![](Banner.png)
 
@@ -89,3 +99,5 @@ Progress Update 1 - September 7th, 2019
   - Breaking a tool is silent.
 
 *End of Changelog*
+
+![*End of File*](Source/pack.png)
