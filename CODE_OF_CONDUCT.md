@@ -8,7 +8,7 @@ I will not tolerate any form of discrimination of *any* kind; whether it be raci
 All opinions should be appropriate for all viewers. 
 
 Any inapropriate language/imagery (vulgur/heavy swearing) or harassment is highly punishable.
-If anyone you catch anyone doing this, please report it to me. (See [Reporting an incident.)](CODE_OF_CONDUCT.md#reporting-a-incident)
+If anyone you catch anyone doing this, please report it to me. (See [Reporting an incident](CODE_OF_CONDUCT.md#reporting-a-incident).)
 
 Other than that you should be:
 - Kind, friendly and welcoming to newcomers.
@@ -23,7 +23,7 @@ It's human nature to disagree but it's wrong to argue and fight over it.
 **********************
 # Reporting an incident
 If you belive one of the rules has been disobeyed by anyone, affecting yourself or anyone else, please submit it as an [issue](https://github.com/TheThunderGuyS/OldMinecraftSounds/issues/new) with the label "`Conduct Violation`".
-At must come with a summary of the problem and proof. A staff member will take action. 
+At must come with a summary of the problem and proof. I will take action. 
 **It does not matter who violates the rules. It is always punishable, even to staff.**
 **********************
 # Attribution
