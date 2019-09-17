@@ -1,4 +1,4 @@
-/*TheThunderGuy_S was here.*/
+/*TheThunderGuy_S was here. Stop spying on my innocent code!*/
 
 .bodyGeneral  {
 	font-size: 100%;
@@ -7,7 +7,7 @@
 }
 
 
-/*Temporary stuffs*/
+/*"Construction"*/
 
 .Construction  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
@@ -20,33 +20,32 @@
 	text-indent:  0.2em;
 	word-spacing: -0.1em;
 	font-size: 1.8em;
-	border-left: 0.2em solid rgb(26, 163, 255);
-	border-radius: 0.2em;
+	border-left: 0.25em solid rgb(26, 163, 255);
+	border-radius: 0.1em;
 	background-color: rgb(250, 250, 250);
 }
 
 .ConstructionAudio  {
-	border: 0.2em solid rgb(26, 163, 255);
-	border-radius: 2em;
-	background-color: rgb(26, 163, 255);
+	border: 0.25em solid rgb(250, 250, 250);
+	border-radius: 0.45em;
+	background-color: rgb(250, 250, 250);
 }
 
-.ConstructionLnk  {
+.ConstructionLnk, .ConstructionLnk:link, .ConstructionLnk:visited  {
 	font-family: "Verdana", "Arial", "Times New Roman"; 
 	font-size: 1.7em;
 	word-spacing: -0.1em;
-}
-
-.ConstructionLnk:link, .ConstructionLnk:visited  {
 	color: rgb(26, 163, 255);
 	text-decoration: none;
 }
-
 .ConstructionLnk:hover  {
-	color: rgb(26, 163, 255);
 	text-decoration: underline;
 }
 .ConstructionLnk:active  {
 	color: rgb(0, 122, 204);
-	text-decoration: underline;
 }
+
+#Logo  {
+	background-color: rgb(255, 255, 255);
+	border: 0.2em solid rgb(255, 255, 255);
+	border-radius: 0.4em;
