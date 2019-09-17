@@ -8,7 +8,7 @@ I will not tolerate any form of discrimination of *any* kind; whether it be raci
 All opinions should be appropriate for all viewers. 
 
 Any inapropriate language/imagery (vulgur/heavy swearing) or harassment is highly punishable.
-If anyone you catch anyone doing this, please report it to me. (See [Reporting an incident](CODE_OF_CONDUCT.md#reporting-a-incident).)
+If anyone you catch anyone doing this, please report it to me. (See [Reporting an incident](CODE_OF_CONDUCT.md#reporting-an-incident).)
 
 Other than that you should be:
 - Kind, friendly and welcoming to newcomers.
