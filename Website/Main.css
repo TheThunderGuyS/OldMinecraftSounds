@@ -1,7 +1,58 @@
+@charset "UTF-8";
+			
 /*TheThunderGuy_S was here. Stop spying on my innocent code!*/
+@import url("font/Minefont.css");
 
-.bodyGeneral  {
+div  {
+	text-align: center;
+	width: auto;
+	border: 0.25em solid white
+}
+h1  {
+	font-weight: normal;
+}
+body  {
 	font-size: 100%;
 	color: black;
-	background-color: rgb(254, 254, 254);
+	background-color: white
+}
+
+.TextSmall  {
+	font-family: "Minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.3em;
+	word-spacing: -0.1em;
+	cursor: default;
+}
+.Text  {
+	font-family: "Minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.6em;
+	word-spacing: -0.1em;
+	cursor: default;
+}
+
+.Title  {
+	font-family: "Minefont", "Verdana", "Arial", "Times New Roman";
+	text-indent:  0.2em;
+	font-size: 2.5em;
+	cursor: default;
+}
+		    
+audio  {
+	border: 0.25em solid rgb(250, 250, 250);
+	background-color: rgb(250, 250, 250);
+}
+		    
+.Lnk, .Lnk:link, .Lnk:visited  {
+	font-family: "Minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.6em;
+	color: rgb(26, 163, 255);
+	text-decoration: none;
+	font-style: italic;
+	text-align: center;
+}
+.Lnk:hover  {
+	text-decoration: underline;
+}
+.Lnk:active  {
+	color: rgb(0, 122, 204);
 }
