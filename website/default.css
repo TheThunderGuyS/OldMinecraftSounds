@@ -1,0 +1,60 @@
+@charset "UTF-8";
+			
+/*TheThunderGuy_S was here. Stop spying on my innocent code!*/
+@import url("font/minefont/minefont.css");
+
+div  {
+	text-align: center;
+	width: auto;
+	border: 0.25em solid white;
+}
+h1  {
+	font-weight: normal;
+}
+body  {
+	font-size: 100%;
+	color: black;
+	background-color: white;
+}
+
+.TextSmall  {
+	font-family: "minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.3em;
+	word-spacing: -0.1em;
+	cursor: default;
+}
+.Text  {
+	font-family: "minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.6em;
+	word-spacing: -0.1em;
+	cursor: default;
+}
+
+.Title  {
+	font-family: "minefont", "Verdana", "Arial", "Times New Roman";
+	text-indent:  0.2em;
+	font-size: 2.5em;
+	cursor: default;
+}
+		    
+.Lnk, .Lnk:link, .Lnk:visited  {
+	font-family: "minefont", "Verdana", "Arial", "Times New Roman";
+	font-size: 1.6em;
+	color: rgb(26, 163, 255);
+	text-decoration: none;
+	font-style: italic;
+	text-align: center;
+}
+.Lnk:hover  {
+	text-decoration: underline;
+}
+.Lnk:active  {
+	color: rgb(0, 122, 204);
+}
+
+.footer  {
+	background-image: url("../banner.png");
+	background-size: 100em auto;
+	background-position: center;
+	background-repeat: no-repeat;
+}
