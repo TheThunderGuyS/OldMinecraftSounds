@@ -53,7 +53,7 @@ body  {
 }
 
 .footer  {
-	background-image: url("banner.png");
+	background-image: url("../banner.png");
 	background-size: 100em auto;
 	background-position: center;
 	background-repeat: no-repeat;
