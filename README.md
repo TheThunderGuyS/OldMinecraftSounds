@@ -3,13 +3,13 @@
 Old Minecraft Sounds is a Minecraft resource pack that attempts to bring old sounds back into modern versions.
 It's a fan project created by me, TheThunderGuy_S in an attempt to create one place where we can accurately share the knowledge and the experience of old Minecraft.
 
-All of the project is open and you are free to copy or contribute it.
-This project was inspired by the fact that many old sounds are lost and hard to find. 
-Compilations of them are done poorly and incorrectly and the goal of this is to deveop the best possible open solution.
+All of the project is open and you are free to copy or contribute to it.
+This project was inspired by the fact that many old sounds are now lost or hard to find. 
+Compilations of old sounds are generally done poorly and incorrectly and the goal of this is to develop the best possible, free and open solution.
 
 If you feel any sounds are incorrect, *please pretty please* let me know in the form of a [new issue](https://github.com/TheThunderGuyS/OldMinecraftSounds/issues/new) with the label "`Error`" or "`Suggestion`" so I can correct it and continue to accurately represent retro Minecraft. Any help of any kind with information is greatly appreciated. Thank you.
 *************************************************
-View the [offical website](https://TheThunderGuyS.github.io/OldMinecraftSounds/)!
+View the [official website](https://TheThunderGuyS.github.io/OldMinecraftSounds/)!
 
 View the [Downloads](https://github.com/TheThunderGuyS/OldMinecraftSounds/releases).
 
