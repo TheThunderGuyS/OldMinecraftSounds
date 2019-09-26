@@ -11,6 +11,9 @@ h1  {
 h2  {
 	font-weight: normal;
 }
+h3  {
+	font-weight: normal;
+}
 body  {
 	font-size: 100%;
 	color: #FFFFFF;
@@ -27,11 +30,11 @@ body  {
 	cursor: default;
 }
 .Title  {
-	font: 2.5em "Minefont", "Verdana", "Arial", "sans-serif";
+	font: 3em "Minefont", "Verdana", "Arial", "sans-serif";
 	cursor: default;
 }
 .Heading  {
-	font: 2em "Minefont", "Verdana", "Arial", "sans-serif";
+	font: 2.2em "Minefont", "Verdana", "Arial", "sans-serif";
 	cursor: default;
 }
 .Lnk, .Lnk:link, .Lnk:visited  {
