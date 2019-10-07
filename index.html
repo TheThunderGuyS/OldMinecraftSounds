@@ -11,55 +11,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="website/default.css">
-    <script>console.log("This website is highly incomplete and there isn't much to do here."),console.log("View this project on GitHub: \nhttps://github.com/TheThunderGuyS/OldMinecraftSounds/");var snd=new Audio("website/click.mp3");</script>
+    <script src="website/default.js"></script>
 </head>
 <body>
-    <div id="header">
-		<h1 class="Title">Old Minecraft Sounds</h1>
-	    <h2 class="Heading">TheThunderGuy_S</h2>
-	</div>
     <div>
-        <p class="Text">Old Minecraft Sounds is a Minecraft resource pack that attempts to bring old sounds back into modern versions. <br>It's a fan project created by me, in an attempt to create one place where we can accurately share the knowledge and the experience of old Minecraft.</p>
-        <p class="Text">All of the project is open and you are free to copy or contribute to it on my GitHub page. <br>This project was inspired by the fact that many old sounds are now lost or hard to find. <br>Compilations of old sounds are generally done poorly and incorrectly and the goal of this is to develop the best possible, free and open solution.</p>
-        <h3 class="TextSmall">*This website is very incomplete*</h3>
-        <h2 class="Heading"> Resource links below:</h2>
+	    <h1 class="title">Old Minecraft Sounds</h1>
+		<h2 class="heading">TheThunderGuy_S</h2>
+        <p class="text">Old Minecraft Sounds is a Minecraft resource pack that attempts to bring old sounds back into modern versions. <br>It's a fan project created by me, in an attempt to create one place where we can accurately share the knowledge and the experience of old Minecraft.</p>
+        <p class="text">All of the project is open and you are free to copy or contribute to it on my GitHub page. <br>This project was inspired by the fact that many old sounds are now lost or hard to find. <br>Compilations of old sounds are generally done poorly and incorrectly and the goal of this is to develop the best possible, free and open solution.</p>
+        <h3 class="textSmall">*This website is very incomplete*</h3>
+        <h2 class="heading"> Resource links below:</h2>
     </div>
-
     <div>
-        <p><a href="OldMinecraftSounds.zip" onclick="snd.play();" download class="Lnk" type="application/zip" title="Download the latest version" target="_self">Download the latest version</a></p>
-        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/releases" onclick="snd.play();" class="Lnk" title="View releases" target="_blank">View releases</a></p>
-        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/blob/master/LICENSE.md" onclick="snd.play();" class="Lnk" title="View license" target="_blank">View license</a></p>
-        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/" onclick="snd.play();" class="Lnk" title="Return to GitHub" target="_self">Return to GitHub</a></p>
+        <p><a href="OldMinecraftSounds.zip" onclick="clickSound.play();" download class="lnk" type="application/zip" title="Download the latest version" target="_self">Download the latest version</a></p>
+        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/releases" onclick="clickSound.play();" class="lnk" title="View releases" target="_blank">View releases</a></p>
+        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/blob/master/LICENSE.md" onclick="clickSound.play();" class="lnk" title="View license" target="_blank">View license</a></p>
+        <p><a href="https://github.com/TheThunderGuyS/OldMinecraftSounds/" onclick="clickSound.play();" class="lnk" title="Return to GitHub" target="_self">Return to GitHub</a></p>
     </div>
-
     <div>
-        <h2 class="Text">While you're here, take a listen to some old sounds featured in my pack:</h2>
-        <audio controls class="ConstructionAudio" title="Bow Firing">
-            <source src="samples/bow.ogg" type="audio/ogg">
-            <source src="samples/mp3/bow.mp3" type="audio/mpeg">
-        </audio>
+        <h2 class="text">While you're here, take a listen to some old sounds featured in my pack:</h2>
+        <audio controls title="Bow Firing"><source src="samples/bow.ogg" type="audio/ogg"><source src="samples/mp3/bow.mp3" type="audio/mpeg"></audio>
         <br>
-        <audio controls class="ConstructionAudio" title="An Explosion">
-            <source src="samples/explosion.ogg" type="audio/ogg">
-            <source src="samples/mp3/explosion.mp3" type="audio/mpeg">
-        </audio>
+        <audio controls title="An Explosion"><source src="samples/explosion.ogg" type="audio/ogg"><source src="samples/mp3/explosion.mp3" type="audio/mpeg"></audio>
         <br>
-        <audio controls class="ConstructionAudio" title="Door Closing">
-            <source src="samples/close.ogg" type="audio/ogg">
-            <source src="samples/mp3/close.mp3" type="audio/mpeg">
-        </audio>
+        <audio controls title="Door Closing"><source src="samples/close.ogg" type="audio/ogg"><source src="samples/mp3/close.mp3" type="audio/mpeg"></audio>
         <br>
-        <audio controls class="ConstructionAudio" title="Water Splashing">
-            <source src="samples/splash.ogg" type="audio/ogg">
-            <source src="samples/mp3/splash.mp3" type="audio/mpeg">
-        </audio>
+        <audio controls title="Water Splashing"><source src="samples/splash.ogg" type="audio/ogg"><source src="samples/mp3/splash.mp3" type="audio/mpeg"></audio>
         <br>
         <br>
     </div>
-
     <div id="footer">
-        <img src="source/pack.png" title="Resource Pack logo" alt="">
-        <h4 class="TextSmall">Copyleft 2019, TheThunderGuy_S. See my license.</h4>
+        <img src="source/pack.png" title="Resource Pack logo" alt="" id="icon">
+        <h3 class="textSmall">Copyleft 2019, TheThunderGuy_S. See my license.</h3>
     </div>
 </body>
 </html>
