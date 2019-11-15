@@ -1,7 +1,7 @@
 # Code of Conduct
 > TheThunderGuyS v1.0.1, September 17th, 2019.
 **********************
-# Summary
+## Summary
 *Old Minecraft Sounds* is a fan project created for all to share, contribute to and be productive in. 
 It should be a safe environment for all contributors and visitors. 
 I will not tolerate **any** form of discrimination of **any** kind; whether it be racism, gender inequality or disability. 
@@ -21,12 +21,12 @@ Other than that you should be:
 Some people might not agree with what you say, you need to remember that it is okay. 
 It's human nature to disagree over things however it's wrong to argue and fight over your disagreement.
 **********************
-# Reporting an incident
+## Reporting an incident
 If you believe any one of the rules has been violated by anyone, whoever it may be affecting, please submit it as an [issue](https://github.com/TheThunderGuyS/OldMinecraftSounds/issues/new) with the label "`Conduct Violation`".
 At must come with a summary of the problem and proof. I will take action. 
 **It does not matter who violates the rules. It is always punishable, even to staff.**
 **********************
-# Attribution
+## Attribution
 This Code of Conduct file is unlicensed and you may use it as a template for your own. Anyone is free to copy, modify or reproduce it without the need of permission.
 **********************
 **End of file**

@@ -1,15 +1,20 @@
-@charset "UTF-8";
 @import "font/minefont/minefont.css";
+header,section,footer,aside,nav,main,article,figure {display:block;}
 ::-webkit-scrollbar{width:12px;height:12px}::-webkit-scrollbar-track{background:#000}::-webkit-scrollbar-thumb{background:silver;border-bottom:solid gray 2px;border-right:solid gray 2px}::-webkit-scrollbar-thumb:hover{border-top:solid gray 2px;border-left:solid gray 2px;border-bottom:0;border-right:0}::-webkit-scrollbar-button{height:12px;width:12px;background:silver;border-bottom:solid gray 2px;border-right:solid gray 2px}::-webkit-scrollbar-button:hover{border-top:solid gray 2px;border-left:solid gray 2px;border-bottom:0;border-right:0}::-webkit-scrollbar-corner{background:silver}
 ::-moz-selection{color:#1f1fff;background:rgba(145,151,255,1)}::selection{color:#1f1fff;background:rgba(145,151,255,1)}
-html{scroll-behavior:smooth}div{width:auto}h1,h2,h3,h4,h5,h6{font-weight:400}
-body{font:100% Minefont,Verdana,Arial,sans-serif;text-align:center;color:#e0e0e0;background:#000 url(background.png) fixed center;background-size:auto;cursor:default}
-.textSmall{font:1.3em Minefont,Verdana,Arial,sans-serif;text-shadow:.1em .1em #383838}
-.text{font:1.6em Minefont,Verdana,Arial,sans-serif;text-shadow:.1em .1em #383838}
-.title{font:3.5em Minefont,Verdana,Arial,sans-serif;text-shadow:.1em .1em #383838}
-.heading{font:2.2em Minefont,Verdana,Arial,sans-serif;text-shadow:.1em .1em #383838}
-.lnk,.lnk:link,.lnk:visited{font:italic 1.6em Minefont,Verdana,Arial,sans-serif;text-decoration:none;color:#5FF;border-bottom:solid .1em transparent;-webkit-transition:.1s ease;transition:.1s ease;cursor:pointer;text-shadow:.1em .1em #383838}
+html{scroll-behavior:smooth}
+div{width:auto;padding:1px}
+h1,h2,h3,h4,h5,h6{font-weight:400}
+body{font:100% Minefont,monospace;text-align:center;color:#e0e0e0;background:#966c4a url(background.png) fixed center;background-size:auto;cursor:default}
+.textSmall{font:1.3em Minefont,monospace;text-shadow:.1em .1em #383838}
+.text{font:1.6em Minefont,monospace;text-shadow:.1em .1em #383838}
+.title{font:3.5em Minefont,monospace;text-shadow:.1em .1em #383838}
+.heading{font:2.2em Minefont,monospace;text-shadow:.1em .1em #383838}
+.lnk,.lnk:link,.lnk:visited{font:italic 1.6em Minefont,monospace;text-decoration:none;color:#5FF;border-bottom:solid .1em transparent;-webkit-transition:.1s ease;transition:.1s ease;cursor:pointer;text-shadow:.1em .1em #383838}
 .lnk:hover{border-bottom-color:#5FF;-webkit-transition:.1s ease;transition:.1s ease}
 .lnk:active{color:#0AA;border-bottom-color:#0AA;-webkit-transition:.1s ease;transition:.1s ease}
-#footer{background:transparent url(../banner.png) no-repeat center;background-size:100em auto}
-@media only screen and (max-width:500px) {#footer{background:transparent}#icon{width:0;height:0}}
+.dark{background:#593d27 url(backgroundDark.png) fixed center;background-size:auto}
+.darker{background:#2f1d0f url(backgroundDarker.png) fixed center;background-size:auto}
+audio{width:85%;padding:1px}
+#footer{background:url(../banner.png) no-repeat center;background-size:auto auto}
+@media only screen and (max-width:500px) {#footer{background:#2f1d0f url(backgroundDarker.png) fixed center;background-size:auto}#icon{width:0;height:0}audio{width:98%}}

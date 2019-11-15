@@ -17,7 +17,7 @@ Take your time to view my [non-existing "license"](LICENSE.md).
 
 See my [Code of Conduct](CODE_OF_CONDUCT.md).
 
-Differences from the default sounds:
+## Differences from the default sounds:
 
 - Many things share the same sounds:
   - Chests, barrels, Shulker boxes, doors both iron and wood as well as trapdoors and fence gates use the exact same sound.
@@ -49,10 +49,12 @@ Differences from the default sounds:
   - Underwater ambiance and the sound for entering/exiting water is removed.
   - Squids squirting ink is silent.
   - Milking a cow is silent.
+  - Cave sounds 14 - 19 are removed leaving only the original 13.
+  - Eating and drinking are silent.
 
 ![](Banner.png)
 
-Installation instructions:
+### Installation instructions:
  1. Download the pack.
  2. Place it in your `resourcepacks` folder.
  3. Enable it and enjoy!
@@ -61,7 +63,7 @@ Installation instructions:
 The latest release is `Progress Update 4` for Minecraft: Java Edition `1.14.4`.
 
 ************************************************************************
-# Changelog
+## Changelog
 
 Progress Update 4 - September 11th, 2019
 - I found a pile of [new sources!](https://archive.org/details/MinecraftAlphaResources) (Archived by me)
@@ -105,4 +107,4 @@ Progress Update 1 - September 7th, 2019
 
 *End of Changelog*
 
-![*End of File*](Source/pack.png)
+![*End of File*](website/favicons/android-chrome-192x192.png)
