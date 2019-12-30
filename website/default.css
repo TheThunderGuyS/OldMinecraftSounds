@@ -1,5 +1,5 @@
-@import "font/minefont/minefont.css";
-header,section,footer,aside,nav,main,article,figure {display:block;}
+@import "font/minefont.css";
+header,footer{display:block;}
 ::-webkit-scrollbar{width:12px;height:12px}::-webkit-scrollbar-track{background:#000}::-webkit-scrollbar-thumb{background:silver;border-bottom:solid gray 2px;border-right:solid gray 2px}::-webkit-scrollbar-thumb:hover{border-top:solid gray 2px;border-left:solid gray 2px;border-bottom:0;border-right:0}::-webkit-scrollbar-button{height:12px;width:12px;background:silver;border-bottom:solid gray 2px;border-right:solid gray 2px}::-webkit-scrollbar-button:hover{border-top:solid gray 2px;border-left:solid gray 2px;border-bottom:0;border-right:0}::-webkit-scrollbar-corner{background:silver}
 ::-moz-selection{color:#1f1fff;background:rgba(145,151,255,1);text-shadow:.1em .1em #c7c7ff}::selection{color:#1f1fff;background:rgba(145,151,255,1);text-shadow:.1em .1em #c7c7ff}
 html{scroll-behavior:smooth}
