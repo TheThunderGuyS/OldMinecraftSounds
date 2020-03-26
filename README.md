@@ -1,5 +1,5 @@
 # Old Minecraft Sounds
-
+### IMPORTANT: The project has been placed on halt for the time being.
 Old Minecraft Sounds is a Minecraft resource pack that attempts to bring old sounds back into modern versions.
 It's a fan project created by me, TheThunderGuy_S in an attempt to create one place where we can accurately share the knowledge and the experience of old Minecraft.
 
